@@ -1,5 +1,4 @@
-## Download latest release 
-https://track-album.net/en/trackalbum-flightlog-setup.exe(HERE)
+## Download latest release [HERE]https://track-album.net/en/trackalbum-flightlog-setup.exe
 
 [Link](url) and ![Image](src)
 ```
