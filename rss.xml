@@ -6,6 +6,14 @@
  <description>GPS software, Logbook software news and it&#039;s application to paragliding/hanggliding and photography.</description>
  <language>en</language>
 <item>
+ <title>Track-Album is freeware now !</title>
+ <link>http://ta/news/255.html</link>
+ <description></description>
+ <pubDate>Wed, 17 Jul 2019 20:56:49 +0400</pubDate>
+ <dc:creator>Alex</dc:creator>
+ <guid isPermaLink="false">255 at http://ta</guid>
+</item>
+<item>
  <title>Version 2.4 Beta released. Maps !</title>
  <link>http://ta/news/246.html</link>
  <description>What&#039;s new:
@@ -126,17 +134,6 @@ Two pre-designed reports are included, custom reports can be created by a user u
  <pubDate>Sun, 08 Mar 2009 15:57:24 +0300</pubDate>
  <dc:creator>Alex</dc:creator>
  <guid isPermaLink="false">225 at http://ta</guid>
-</item>
-<item>
- <title>Version 1.2 Available </title>
- <link>http://ta/news/223.html</link>
- <description>Today&#039;s main feature - GPS coordinates in photos.
-Track-Album becomes a &lt;a href=&quot;http://track-album.net/en/help/gps-photo.html&quot;&gt;gps photo tagger&lt;/a&gt;.&lt;br&gt;
-&lt;a href=&quot;http://track-album.net/en/index.html&quot;&gt;Download GPS software&lt;/a&gt;.
-</description>
- <pubDate>Thu, 12 Feb 2009 19:32:01 +0300</pubDate>
- <dc:creator>Alex</dc:creator>
- <guid isPermaLink="false">223 at http://ta</guid>
 </item>
 </channel>
 </rss>
