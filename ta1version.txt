@@ -1,2 +1,2 @@
 [Version] 
-LatestVersion=2.5.0.3
+LatestVersion=2.5.0.2
